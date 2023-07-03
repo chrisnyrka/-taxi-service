@@ -1,7 +1,7 @@
 
 # 🚖 Taxi Service 🚖
 
-### ⚡️ Project description:
+### ⚡️ Project description
 
 This is a Taxi Service project that aims to create a simple and efficient system for managing a taxi service. The project provides functionality for adding cars, them manufacturers, and adding taxi-drivers to cars.
 A web app supports user authentication, registration and represent all information from database using CRUD principles.
@@ -17,7 +17,7 @@ A web app supports user authentication, registration and represent all informati
 * display list of all manufacturers
 
 ### 📖 Architecture
-##### Project consists main layer:
+Project consists main layer:
 * dao;
 * service;
 * controller;
